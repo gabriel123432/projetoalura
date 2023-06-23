@@ -85,4 +85,20 @@ body {
 }
 .dispositivos_lista {
     display: flex;
+    justify-content: center;
+    list-style: none;
 }
+.dispositivos {
+    text-align: center;
+}
+.dispositivos {
+    font-size: 48px;
+    color:var(--branco-principal);
+}
+.lista_item {
+    font-size: 32px;
+    color:var(--branco-principal);
+    list-style-type:none;
+    margin: 5em 0;
+}
+
